@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BenchmarkFeedback820880": {
+      "commandName": "Project",
+      "commandLineArgs": "--filter *"
+    }
+  }
+}
